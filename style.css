@@ -1,15 +1,33 @@
-body{background-color: rgb(141, 41, 41);}
+body{background-color: rgb(82, 78, 78);}
+
 .center{display: block;
     margin-left: auto;
     margin-right: auto;
     width: 10%;}
+
+/* h1{text-align: center;
+    color: black;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} */
+
 h1{text-align: center;
     color: black;
-font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+font-family: Georgia, 'Times New Roman', Times, serif;}
+
 .largeblack{color: rgb(29, 23, 23);
     font-size: x-large;
     font-weight: bold;}
-.largeblue{color: rgb(38, 38, 175);
+
+/* .mylink{color: rgb(38, 38, 175);
 font-size: x-large;
-font-weight: bold;}
+font-weight: bold;} */
+
+.mylink{color: rgb(60, 60, 236);
+    font-size: x-large;
+    font-weight: bold;}
+
+.mylist{list-style: none;}
+
+
+
+
 
